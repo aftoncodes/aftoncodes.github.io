@@ -40,7 +40,7 @@ More about me:
 
 export const resume = async (args: string[]): Promise<string> => {
   window.open(`${config.resume_url}`);
-  return 'I don't have a resume!';
+  return "i don't have a resume!";
 };
 
 // Donate
@@ -64,7 +64,7 @@ export const github = async (args: string[]): Promise<string> => {
 };
 
 export const linkedin = async (args: string[]): Promise<string> => {
-  return "I don't have a LinkedIn - I'm not a boomer!";
+  return "i don't have a linkedin - i'm not a boomer!";
 };
 
 // Search
