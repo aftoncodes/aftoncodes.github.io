@@ -64,9 +64,7 @@ export const github = async (args: string[]): Promise<string> => {
 };
 
 export const linkedin = async (args: string[]): Promise<string> => {
-  window.open(`https://www.linkedin.com/in/${config.social.linkedin}/`);
-
-  return 'Opening linkedin...';
+  return "I don't have a LinkedIn - I'm not a boomer!";
 };
 
 // Search
