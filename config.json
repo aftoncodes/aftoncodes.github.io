@@ -4,11 +4,11 @@
   "name": "aftoncodes",
   "ascii": "aftoncodes",
   "social": {
-    "github": "github"
+    "github": "aftoncodes"
   },
   "email": "williamafton.codes@gmail.com",
-  "ps1_hostname": "kali",
-  "ps1_username": "root",
+  "ps1_hostname": "afton",
+  "ps1_username": "codes",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "",
   "donate_urls": {
